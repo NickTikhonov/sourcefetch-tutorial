@@ -1,5 +1,5 @@
-# sourcefetch package
+# sourcefetch tutorial
 
-A short description of your package.
+Example code for the [Building your first Atom plugin](https://github.blog/2016-08-19-building-your-first-atom-plugin/) blog post.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![Plugin](https://github.blog/wp-content/uploads/2016/08/836dd780-64ab-11e6-8f6a-329f66f01fd7.gif?resize=2016%2C1312)
